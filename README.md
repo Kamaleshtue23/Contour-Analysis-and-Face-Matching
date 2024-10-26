@@ -20,6 +20,7 @@ The face recognition module uses the Local Binary Pattern Histogram (LBPH) algor
 * Detects and filters contours based on area to remove noise.
 * Calculates and displays centroids of valid contours.
 * Avoids contours that touch the image border.
+  
 **Face Recognition:**
 * Utilizes the LBPH algorithm for efficient face recognition.
 * Extracts feature vectors based on LBP histograms for each region of the face.
